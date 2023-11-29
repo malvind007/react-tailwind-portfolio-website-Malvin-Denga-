@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa'
 import { IoIosMail } from "react-icons/io";
 import {BsFillPersonLinesFill} from 'react-icons/bs'
-import Logo from '../assets/logo.png'
+import Logo from '../assets/logo2.jpg'
 import {Link} from 'react-scroll'
 
 const Navbar = () => {
@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
         <div>
-            <img src={Logo} alt='Logo image' style={{ width: '50px' }} />
+            <img src={Logo} alt='Logo image' style={{ width: '80px' }} />
         </div>
 
         {/* MENU */}

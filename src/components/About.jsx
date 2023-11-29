@@ -15,7 +15,8 @@ const About = () => {
                         <p>Hi, I'm Malvin, nice to meet you. Please take a look around</p>
                     </div>
                     <div>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit commodi necessitatibus dicta praesentium libero. Quae fuga aperiam consequatur, eaque exercitationem nihil eius qui aliquam iusto voluptates provident veniam atque obcaecati?
+                    JUNIOR WEB DEVELOPER I’m an enthusiastic, responsible and hard working person. Being a self-taught in IT helped me to adopt to the changes quickly and made me a mature team worker. I am able to work well both in a team environment as well as using own initiative. I also am able to work under pressure and adhere to strict deadlines. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+
                     </div>
                 </div>
             </div>
