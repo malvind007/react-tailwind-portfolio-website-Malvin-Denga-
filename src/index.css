@@ -14,14 +14,14 @@
     }
 }
 
-.content-div {
+.contenter {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 250px;
 }
 
-.content-div:hover {
+.contenter:hover {
     background-image: linear-gradient(
         to right,
         rgba(112, 157, 255, 0.8),

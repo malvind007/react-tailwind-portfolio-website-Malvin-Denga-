@@ -13,10 +13,9 @@ const Work = () => {
 
             <div 
             className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
-                <div 
-                style={{ backgroundImage: `url(${WorkImg})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex-auto justify-center items-center mx-auto content-dev'>
-                    
+                 <div 
+                style={{ backgroundImage: `url(${realEstate})` }}
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto contenter'>
                     
                     {/*Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -39,7 +38,7 @@ const Work = () => {
                 </div>
                 <div 
                 style={{ backgroundImage: `url(${realEstate})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto contenter'>
                     
                     {/*Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -60,9 +59,10 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
+
                 <div 
                 style={{ backgroundImage: `url(${WorkImg})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto contenter'>
                     
                     {/*Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -83,9 +83,10 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
+
                 <div 
                 style={{ backgroundImage: `url(${WorkImg})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto contenter'>
                     
                     {/*Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -106,9 +107,10 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
+
                 <div 
                 style={{ backgroundImage: `url(${WorkImg})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto contenter'>
                     
                     {/*Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -129,9 +131,10 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
+
                 <div 
                 style={{ backgroundImage: `url(${WorkImg})` }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto contenter'>
                     
                     {/*Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
