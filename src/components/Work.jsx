@@ -14,8 +14,8 @@ const Work = () => {
             <div 
             className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
                 <div 
-                style={{ backgroundImage: 'url(${WorkImg})' }}
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                style={{ backgroundImage: `url(${WorkImg})` }}
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex-auto justify-center items-center mx-auto content-dev'>
                     
                     
                     {/*Hover Effects */}
@@ -38,7 +38,7 @@ const Work = () => {
                     </div>
                 </div>
                 <div 
-                style={{ backgroundImage: 'url(${WorkImg})' }}
+                style={{ backgroundImage: `url(${realEstate})` }}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
                     
                     {/*Hover Effects */}
@@ -61,7 +61,7 @@ const Work = () => {
                     </div>
                 </div>
                 <div 
-                style={{ backgroundImage: 'url(${WorkImg})' }}
+                style={{ backgroundImage: `url(${WorkImg})` }}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
                     
                     {/*Hover Effects */}
@@ -84,7 +84,7 @@ const Work = () => {
                     </div>
                 </div>
                 <div 
-                style={{ backgroundImage: 'url(${WorkImg})' }}
+                style={{ backgroundImage: `url(${WorkImg})` }}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
                     
                     {/*Hover Effects */}
@@ -107,7 +107,7 @@ const Work = () => {
                     </div>
                 </div>
                 <div 
-                style={{ backgroundImage: 'url(${WorkImg})' }}
+                style={{ backgroundImage: `url(${WorkImg})` }}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
                     
                     {/*Hover Effects */}
@@ -130,7 +130,7 @@ const Work = () => {
                     </div>
                 </div>
                 <div 
-                style={{ backgroundImage: 'url(${WorkImg})' }}
+                style={{ backgroundImage: `url(${WorkImg})` }}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-dev'>
                     
                     {/*Hover Effects */}
