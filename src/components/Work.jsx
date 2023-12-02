@@ -1,6 +1,7 @@
 import React from 'react'
 import WorkImg from '../assets/projects/workImg.jpeg'
 import realEstate from '../assets/projects/realestate.jpg'
+import Bootstrap from '../assets/projects/bootstrap.png'
 
 const Work = () => {
   return (
@@ -11,7 +12,7 @@ const Work = () => {
                 <p className='py-6'>Check out some of my recent work</p>
             </div>
 
-            <div 
+            <div
             className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
                  <div 
                 style={{ backgroundImage: `url(${realEstate})` }}
@@ -109,7 +110,7 @@ const Work = () => {
                 </div>
 
                 <div 
-                style={{ backgroundImage: `url(${WorkImg})` }}
+                style={{ backgroundImage: `url(${Bootstrap})` }}
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto contenter'>
                     
                     {/*Hover Effects */}
@@ -123,7 +124,7 @@ const Work = () => {
                                     Demo
                                 </button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/malvind007/bootstrap-project' target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                     Code
                                 </button>
